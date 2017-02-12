@@ -2,8 +2,10 @@ cover
 frontmatter:
 maketitle
 tableofcontents
-preface.md
 mainmatter:
-a_chapter.md
-another_chapter.md
-yet_another_chapter.md
+forward_tw.md
+forward_ab.md
+gg.md
+introduction.md
+where_to_start.md
+
