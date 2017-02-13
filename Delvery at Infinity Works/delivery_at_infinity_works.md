@@ -18,39 +18,37 @@ Our values:
 
 ### Awareness
 
-Be aware of value. This could be the value of a story in a backlog, the value of the product to the customer or the value of the client to Infinity Works.
+Firstly, be aware of value. This could be the value of a story in a backlog, the value of the product to the customer or the value of the client to Infinity Works.
 
 Every deliverable in the Product Backlog should have value, either immediately or enabling future value, otherwise why are we delivering it? We need to be able to measure that value either as commercial value (revenue or profit) or relative to other Product Backlog Items (PBIs).
 
-Be also commercially aware for Infinity Works. We sometimes need to have honest conversations at or with our clients, be sensitive to your environment. Be disruptive, but in a positive and conscious way, mindful of the culture and attitudes your customer currently holds.
+Be also commercially aware. We sometimes need to have honest conversations at or with our clients, be sensitive to your environment. Be disruptive, but in a positive and conscious way, mindful of the culture and attitudes your customer currently holds.
 
 ### Discipline
 
-We use discipline to drive common good practices and capabilities. We leverage elements from existing frameworks like; Scrum, Kanban, Scrumban, Disciplined Agile (DA), Scaled Agile Framework (SAFe), Large Scale Scrum (LeSS), Spotify and Nexus to help forge that structure. We use these to construct lightweight and flexible frameworks to suit each organisation.
+We use discipline to drive common good practices and capabilities as well as build confidence in Infinity Works. We leverage elements from many existing frameworks and leading lights to help forge structure. We use these to construct lightweight and flexible frameworks to suit each organisation.
 
-Don't be a slave to "best practices", innovate and experiment, even if they sometimes fail, the learning is what we value most.
+Don't be a slave to "best practices", innovate and experiment, even if we sometimes fail, learning is what we value most.
 
 ### Empowerment
 
-We believe that ideas, answers and innovation comes from everyone, not just a lucky few. Autonomy and empowerment are critical to Infinity Works, and are core to how we function.
+We believe that ideas, answers and innovation come from everyone, not just a lucky few. Autonomy and empowerment are critical to Infinity Works, and are core to how we function.
 
-Some clients will be further on the autonomy journey than others. Please be patient and work with clients to build trust and promote an empowered environment. We often find that trust is needed first and the best way to win trust is to have a say..do approach; we say what we're going to do, then do it. If we hit a bump in the road, we say that too.
+Some clients will be further on the autonomy journey than others. Please be patient and work with clients to build trust and promote empowerment. We often find that trust is needed first and the best way to win trust is to have a 'say..do' approach; we say what we're going to do, then do it. If we hit a bump in the road, say that too.
 
 ### Transparency
 
-Transparency, honesty and visibility are core to how we deliver at Infinity Works. Many of the tools and techniques are crafted to help promote this and act as information radiators both physically in our client offices and virtually within our tools.
+Transparency, honesty and visibility are core to how we deliver at Infinity Works. Many of the tools and techniques are crafted to help promote this and act as information radiators both physically in our client offices and virtually within our tools. It's another key factor in building trust with our customers.
 
 We should never fear an honest conversation!
 
 ### United
 
-We are one team, with one purpose, to deliver great products that delight our customers, warring departments and precious silos kill team productivity and purpose.
+We are one team, with one purpose; to deliver great products that delight our customers. Warring departments and precious silos kill team productivity and purpose.
 
-> _"Left to themselves the components of a system (silos) become selfish and competitive and this behavior has a destructive effect on the system"_ **- W. Edward Demming**
+Business and IT are one unit, not two. IT's prime objective is to further and influence business strategies and objectives, whilst at the sametime, be good custodians of business technology. We are not separate, we are the same and need to work together, daily, with our customers and stakeholders to deliver the best possible solutions we can.
 
-Business and IT are one unit, not two. IT's prime objective is to further and influence business strategies and objectives, whilst at the sametime, be good custodians of business technology. We are not separate, we are the same and need to work together daily and with our customers and stakeholders to deliver the best possible solutions we can.
-
-Equally, we at Infinity Works are one team. We all have specialisms and have had different routes and experience that lead us to Infinity Works. We value and promote this. There is rarely one true path, rather many potential paths.
+Equally, we at Infinity Works are one team. We all have specialisms and have had different routes and experience that lead us to Infinity Works. We value and embrace this, there is rarely one true path.
 
 ### No blame culture
 
