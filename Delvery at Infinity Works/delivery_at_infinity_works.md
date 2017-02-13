@@ -36,8 +36,6 @@ We believe that ideas, answers and innovation comes from everyone, not just a lu
 
 Some clients will be further on the autonomy journey than others. Please be patient and work with clients to build trust and promote an empowered environment. We often find that trust is needed first and the best way to win trust is to have a say..do approach; we say what we're going to do, then do it. If we hit a bump in the road, we say that too.
 
-test
-
 ### Transparency
 
 Transparency, honesty and visibility are core to how we deliver at Infinity Works. Many of the tools and techniques are crafted to help promote this and act as information radiators both physically in our client offices and virtually within our tools.
