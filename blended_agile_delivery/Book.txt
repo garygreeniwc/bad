@@ -7,5 +7,3 @@ forward_tw.md
 forward_ab.md
 gg.md
 introduction.md
-where_to_start.md
-
