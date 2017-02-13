@@ -1,0 +1,20 @@
+/* Place custom styles here, scoped by the CSS id '#book' */
+/* To sync up PDF styles, edit custom.sty */
+/* Google for "LaTeX style files" to learn how to use custom.sty */
+
+body #book {
+  width: 41em;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  margin-left: 5em;
+  color: #070707;
+  margin-bottom: 20em;
+}
+
+#book .aside {
+  border: 1px solid #999;
+  padding: 0.5em;
+  background: #eee;
+  width: 100%;
+}

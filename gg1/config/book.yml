@@ -1,0 +1,11 @@
+---
+slug: gg1
+filename: gg1
+title: Title of the Book
+subtitle: Change me
+description: Change me.
+author: Author Name
+copyright: 2017
+uuid: 8cfcfd7a-0155-4d39-ba1b-4000ee7ce69b
+pdf_preview_page_range: 1..30
+epub_mobi_preview_chapter_range: 0..1
